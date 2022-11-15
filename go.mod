@@ -1,1 +1,1 @@
-module github.com/zubron/mathapi-test
+module github.com/zubron/sample-api-call
